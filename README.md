@@ -9,8 +9,8 @@
 ### Elaboracion del codigo:
 - Primero empece haciendo los bucles para recorrer las matricez de forma vertical, horizontal y oblicua, luego de esto genere contadores para que vayan almacenando las veces que se encontaban
 - 4 letras iguales de forma consecurtivas para detectar si es mutante o no.
+  
 ![Captura de pantalla 2023-11-11 011158](https://github.com/Mdztonga/Global_Mutantes/assets/146146598/09eac9aa-a5e5-44e6-9e5b-10e11a20c777)
-
 - Luego de esto me puse a generar con un import de randoms unos bucles que me guardaran solo las letra que se podrian ingresar (A ,T ,C, G)
 ![Captura de pantalla 2023-11-12 003123](https://github.com/Mdztonga/Global_Mutantes/assets/146146598/3a71bce7-6389-43db-b6e4-e8f7552ef3d0)
 
