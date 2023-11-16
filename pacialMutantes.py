@@ -1,3 +1,7 @@
+print("Vamos a detectar si usted es mutante o no")
+print("Va a tener que ingresar las letras por las cuales se compone su ADN")
+print()
+
 letras_validas = ['A', 'T', 'C', 'G']
 matriz = [[' ' for _ in range(6)] for _ in range(6)]
 
