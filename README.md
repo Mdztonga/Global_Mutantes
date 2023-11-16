@@ -25,5 +25,5 @@
 ![Captura de pantalla 2023-11-13 223902](https://github.com/Mdztonga/Global_Mutantes/assets/146146598/dfd83ae3-8776-42dd-85f9-6c19aa10e4ed)
 
 ### Como se corre el codigo
-- Se le pide al usuario que este ingrese una cantidad de letras (36) para poder rellerar la matriz y luego de esto el programa solo va hacerce cargo de definir si es mutante o no
+- Se le pide al usuario que este ingrese una cantidad de letras (36) para poder rellerar la matriz y luego de esto el programa solo va a hacerce cargo de definir si es mutante o no
 - Se le imprimira por pantalla dicha matriz, si es mutante o no y la cantidad de secuencias que se encontraron en su ADN
