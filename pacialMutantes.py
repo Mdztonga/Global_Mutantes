@@ -1,4 +1,4 @@
-print("Vamos a detectar si usted es mutante o no")
+print("--------------------------Vamos a detectar si usted es mutante o no--------------------------")
 print("Va a tener que ingresar las letras por las cuales se compone su ADN")
 print()
 
